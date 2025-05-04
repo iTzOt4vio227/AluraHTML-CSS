@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    background-color: #282b30;
+    color: white;
+    box-sizing: border-box;
+}
+
+p{
+    font-family: sans-serif;
+    color: white;
+}
+
+.nav-bar, a:link, a:visited{
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #424549;
+    border-radius: 20px;
+}
+
+.title{
+    font-family: fantasy;
+}
+
+.strong-blue{
+    color: aqua;
+    border: 2px solid aqua;
+    padding: 1px;
+}
+
+.li-title{
+    color: aquamarine;
+}
+
+.main-flexbox{
+    display: flex;
+    align-items: center;
+}
